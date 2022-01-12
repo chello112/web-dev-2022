@@ -1,0 +1,20 @@
+h1 {
+    color: lawngreen;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.troopiline {
+    color: crimson;
+}
+
+.luuviljalised {
+    background-color: bisque;
+}
+
+#konteiner {
+    background-color: blue;
+}
