@@ -6,20 +6,73 @@ body {
 }
 
 .konteiner {
-    background-color: aquamarine;
-    width: 80%;
-    max-width: 900px;
+    background-color: rgba(127, 157, 255, 0.651);
+    width:100%;
+  
+    margin-top: 10%;
     margin-left: auto;
     margin-right: auto;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+   
 }
 
-.blokk {
-    width: 150px;
-    height: 150px;
-    background-color: orange;
+.aripaev  {
+    color: rgb(178, 34, 53);
+    font-size: 30px;
+    width: 300px;
+    height: 300px;
+    background-image: url(aripaev.jpg);
+    background-size: cover;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    display: inline-block;
+}
+.majandus {
+    color: rgb(178, 34, 53);
+    font-size: 30px;
+    width: 300px;
+    height: 300px;
+    background-image: url(majandus.jpg);
+    background-size: cover;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    display: inline-block;
+}
+.investeeri {
+    color: rgb(178, 34, 53);
+    font-size: 30px;
+    width: 300px;
+    height: 300px;
+    background-image: url(investeeri.jpg);
+    background-size: cover;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    display: inline-block;
+}
+.kinnisvara {
+    color: rgb(178, 34, 53);
+    font-size: 30px;
+    width: 300px;
+    height: 300px;
+    background-image: url(kinnisvara.jpg);
+    background-size: cover;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    display: inline-block;
+}
+.reisimine {
+    color: rgb(178, 34, 53);
+    font-size: 30px;
+    width: 300px;
+    height: 300px;
+    background-image: url(reisimine.jpg);
+    background-size: cover;
     border-style: solid;
     border-width: 2px;
     border-color: black;
