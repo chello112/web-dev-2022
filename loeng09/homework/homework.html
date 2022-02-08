@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="homework.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    
+    <div class="nav1">
+        <h1>Todo list:</h1>
+
+        <label style="font-size: larger;" for="">Name a goal that you want to achieve this year: </label>
+        <br>
+        <br>
+        <input id="insert" type="text" placeholder="Things to be done...">
+        
+        <button onClick="addGoal()">Add goal</button>
+        <br>
+        <div id="output" ></div>
+    </div>
+
+    <div class="nav2">
+        <h1>Display your list:</h1>
+
+        <button onClick="showList()">Show the list</button>
+        <br>
+        <div id="show" ></div>
+    </div>
+
+
+    <script src="./homework.js"></script>
+</body>
+</html>

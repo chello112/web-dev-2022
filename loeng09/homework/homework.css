@@ -1,0 +1,18 @@
+body {
+    background-image: url(./background.jpg);
+    background-size: cover;
+}
+
+.nav1 {
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+.nav2 {
+    margin-left: 50%;
+    margin-top: 150px;
+}
+
+.nav1, .nav2 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
