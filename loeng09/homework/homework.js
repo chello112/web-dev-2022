@@ -2,7 +2,7 @@
  
 function textOutput(innerText) {
     let outputElement = document.getElementById("output")
-    outputElement.innerHTML += "<div>" + innerText + "</div>"
+    outputElement.innerHTML += "<div>" +  innerText + "</div>"
 }
 
 const goals = [];

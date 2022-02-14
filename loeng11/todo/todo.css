@@ -1,0 +1,9 @@
+.tehtud {
+    text-decoration: line-through;
+}
+.ylesanne {
+    display: flex;
+}
+.ylesanne div {
+    margin-right: 10px;
+}
